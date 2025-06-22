@@ -1,4 +1,4 @@
-const tasks = ['']
+const tasks = []
 console.log('tasks',tasks)
 
 function addTask(){
